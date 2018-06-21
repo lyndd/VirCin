@@ -1,0 +1,2 @@
+# VirCin
+Virtual cinema project
