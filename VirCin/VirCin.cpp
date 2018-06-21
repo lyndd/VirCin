@@ -3,5 +3,5 @@
 VirCin::VirCin(QWidget *parent)
 	: QMainWindow(parent)
 {
-	ui.setupUi(this);
+	setGeometry(400, 200, 1200, 800);
 }

@@ -1,0 +1,3 @@
+VirCin.qrc|"G:\vsproject\Virtual_Cinema\VirCin\VirCin\VirCin.qrc" -o ".\GeneratedFiles\qrc_VirCin.cpp" --name VirCin
+VirCin.ui|"G:\vsproject\Virtual_Cinema\VirCin\VirCin\VirCin.ui" -o ".\GeneratedFiles\ui_VirCin.h"
+VirCin.h|"G:\vsproject\Virtual_Cinema\VirCin\VirCin\VirCin.h" -o ".\GeneratedFiles\Debug\moc_VirCin.cpp" "-I.\GeneratedFiles" "-I." "-IE:\software\vs2017\qt\sdk\5.11.0\msvc2017_64\include" "-I.\GeneratedFiles\Debug" "-IE:\software\vs2017\qt\sdk\5.11.0\msvc2017_64\include\QtCore" "-IE:\software\vs2017\qt\sdk\5.11.0\msvc2017_64\include\QtGui" "-IE:\software\vs2017\qt\sdk\5.11.0\msvc2017_64\include\QtANGLE" "-IE:\software\vs2017\qt\sdk\5.11.0\msvc2017_64\include\QtWidgets" -DUNICODE -D_UNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB

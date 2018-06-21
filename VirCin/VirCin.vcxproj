@@ -120,9 +120,6 @@
     <QtMoc Include="VirCin.h" />
   </ItemGroup>
   <ItemGroup>
-    <QtUic Include="VirCin.ui" />
-  </ItemGroup>
-  <ItemGroup>
     <QtRcc Include="VirCin.qrc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

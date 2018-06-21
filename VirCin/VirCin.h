@@ -1,7 +1,6 @@
 #pragma once
 
 #include <QtWidgets/QMainWindow>
-#include "ui_VirCin.h"
 
 class VirCin : public QMainWindow
 {
@@ -10,6 +9,5 @@ class VirCin : public QMainWindow
 public:
 	VirCin(QWidget *parent = Q_NULLPTR);
 
-private:
-	Ui::VirCinClass ui;
+
 };
